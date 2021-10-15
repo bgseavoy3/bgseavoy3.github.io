@@ -1,0 +1,47 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<title>Braden Seavoy</title>
+</head>
+<body>
+
+<h1>Braden Seavoy</h1>
+<h2>Contact Info:</h2>
+<p>Phone Number: 773-600-4099<p>
+<a href="https://www.google.com/maps/place/170+South+St,+Elmhurst,+IL+60126/@41.8819863,-87.9233162,15z/data=!4m5!3m4!1s0x880e4ca1198e9fed:0x6610b53256f296ca!8m2!3d41.8847541!4d-87.9364483">Address</a>
+<p> </p>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bseavoy@asu.edu&su">Email</a>
+
+<h3>The purpose of this document is to show my qualificaitons for this job in the web development field.
+I believe that my past experience with java along with new knowledge in HTML qualifies me for this job fully</h3>
+
+<h2>Past Experience:</h2>
+<h3>Past Education:</h3>
+<table>
+<tr>
+    <th>Experience</th>
+    <th>Location</th>
+    <th>Length</th>
+  </tr>
+  <tr>
+    <td>CSE 110</td>
+    <td>High School</td>
+    <td>1 year</td>
+  </tr>
+  <tr>
+    <td>AME 220</td>
+    <td>ASU</td>
+    <td>1 semester</td>
+  </tr>
+</table>
+<h3>Past Experience</h3>
+<ol>
+	<li>I spent 1 summer in high school working on a program that made basic calculations for a small trading company </li>
+    <li>I created an application that found color combinations for clothing that was used by a small clothing brand in my hometown </li>
+   
+<h3>Refrences</h3>
+<ul>
+	<li>Garrett Volk, Roomate, gvolk@asu.edu</li>
+    <li>Damien Bordeax, Roomate, dbordeaux@asu.edu</li>
+</body>
+</html>
